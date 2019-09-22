@@ -1,0 +1,12 @@
+{
+  "scope": "awmleer",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
