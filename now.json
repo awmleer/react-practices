@@ -2,7 +2,7 @@
   "scope": "awmleer",
   "builds": [
     {
-      "src": "package.json",
+      "src": "**/*",
       "use": "@now/static"
     }
   ],
